@@ -10,7 +10,7 @@ When configuring Claude Code to route through alternative providers like NVIDIA 
 * **Advanced Integration Blueprints:** Clean configuration matrices to bridge the proxy seamlessly into VS Code Settings and local offline LLM endpoints.
 
 
-This repository contains a step-by-step installation pipeline and troubleshooting log for the popular [Alishahryar1/free-claude-code](https://github.com) proxy bridge. Use this repository to configure the tool without running into native binary errors, syntax bugs, or broken environment mappings.
+This repository contains a step-by-step installation pipeline and troubleshooting log for the popular [Alishahryar1/free-claude-code]([https://github.com](https://github.com/Alishahryar1/free-claude-code.git)) proxy bridge. Use this repository to configure the tool without running into native binary errors, syntax bugs, or broken environment mappings.
 
 ### 🏗️ Step 1: Core System Dependencies
 
@@ -61,12 +61,12 @@ Instead of manually configuring terminal blocks, you can leverage the project's 
 
 #### Windows PowerShell:
 ```powershell
-irm "https://github.com/blob/main/scripts/install.ps1?raw=1" | iex
+irm "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.ps1?raw=1" | iex
 ```
 
 #### macOS / Linux Terminal:
 ```bash
-curl -fsSL "https://github.com/blob/main/scripts/install.sh?raw=1" | sh
+curl -fsSL "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.sh?raw=1" | sh
 ```
 
 ---
