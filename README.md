@@ -1,6 +1,6 @@
 # 🚀 Free Claude Code — Universal Setup & Troubleshooting Knowledge Base (Guide)
 
-This repository serves as a community-driven, step-by-step master handbook dedicated to debugging and setting up the [free-claude-code](https://github.com) proxy wrapper.
+This repository serves as a community-driven, step-by-step master handbook dedicated to debugging and setting up the [free-claude-code](https://github.com](https://github.com/Alishahryar1/free-claude-code.git) proxy wrapper.
 
 When configuring Claude Code to route through alternative providers like NVIDIA NIM, OpenRouter, or LM Studio, users frequently hit severe platform-specific walls. This guide eliminates those hurdles by providing:
 
