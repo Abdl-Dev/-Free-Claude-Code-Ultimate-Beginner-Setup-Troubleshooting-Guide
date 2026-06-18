@@ -162,5 +162,11 @@ npm install -g @anthropic-ai/claude-code
 
 This troubleshooting guide is maintained by **Abdul Rahman**. If you get stuck on an error or have any questions, feel free to reach out:
 
-[![WhatsApp](https://shields.io)](https://wa.me)
-[![GitHub](https://shields.io)](https://github.com)
+<a href="https://wa.me" target="_blank">
+  <img src="https://shields.io" alt="WhatsApp">
+</a>
+
+<a href="https://github.com" target="_blank">
+  <img src="https://shields.io" alt="GitHub">
+</a>
+
