@@ -158,15 +158,3 @@ rmdir /s /q "%USERPROFILE%\.claude" 2>nul
 rmdir /s /q "%USERPROFILE%\.cache\claude" 2>nul
 npm install -g @anthropic-ai/claude-code
 ```
-## 🤝 Connect & Support
-
-This troubleshooting guide is maintained by **Abdul Rahman**. If you get stuck on an error or have any questions, feel free to reach out:
-
-<a href="https://wa.me" target="_blank">
-  <img src="https://shields.io" alt="WhatsApp">
-</a>
-
-<a href="https://github.com" target="_blank">
-  <img src="https://shields.io" alt="GitHub">
-</a>
-
